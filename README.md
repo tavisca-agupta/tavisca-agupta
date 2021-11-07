@@ -1,12 +1,1 @@
-### Hi there 👋
-
-<!--
-**tavisca-agupta/tavisca-agupta** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
-
-- 🔭 I’m currently working on ... DotNet Core
-- 🌱 I’m currently learning ... Angular
-- 👯 I’m looking to collaborate on ... DevOps
-- 🤔 I’m looking for help with ... Scalable Micro-FrontEnd Architecture
-- 😄 About Me: ...
-<!-- - 💬 Ask me about ...
-- 📫 How to reach me: ...
+<a href="https://app.daily.dev/AmanG"><img src="https://api.daily.dev/devcards/b056cf68e38f41c89edbf8538b15bd20.png?r=vj2" width="400" alt="Aman Gupta's Dev Card"/></a>
